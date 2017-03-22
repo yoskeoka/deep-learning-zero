@@ -3,4 +3,8 @@
 
 ## 環境(Linux)
 
-Anaconda3-4.2.0-Linux-x64
+Anaconda3-4.3.0-Linux-x64 on pyenv
+
+Instruction
+
+http://qiita.com/y__sama/items/5b62d31cb7e6ed50f02c

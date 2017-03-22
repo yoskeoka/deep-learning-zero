@@ -3,4 +3,5 @@
     "python.linting.pylintArgs": [
         "--rcfile=pylint.config"
     ]
+    
 }
